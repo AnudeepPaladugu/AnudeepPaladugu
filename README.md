@@ -2,92 +2,79 @@
 
 # ⚡ ANUDEEP PALADUGU
 
-### QA Engineer • Test Automation • AI Explorer • Builder
+### QA Engineer • Software Testing • Test Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=F7C948&center=true&vCenter=true&width=760&lines=I+test+things+until+they+break.;I+automate+the+boring+stuff.;I+build+small+AI+projects.;I+turn+ideas+into+working+apps.;Welcome+to+my+GitHub+corner.%F0%9F%91%8B" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=I+test+products+from+the+user's+side.;I+look+for+what+breaks+and+why.;I+turn+repetitive+tests+into+automation.;I+care+about+quality%2C+not+just+screenshots.;Welcome+to+my+QA+workspace.%F0%9F%91%8B" alt="Typing intro" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AnudeepPaladugu&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-AnudeepPaladugu-181717?style=for-the-badge&logo=github)](https://github.com/AnudeepPaladugu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anudeep%20Paladugu-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anudeeppaladugu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anudeeppaladugu/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnudeepPaladugu)
 
 </div>
 
 ---
 
-## 🧠 WHO AM I?
+## 👋 HELLO, I'M ANUDEEP
 
-I’m **Anudeep Paladugu**, a QA-focused developer who enjoys the space where **testing, automation, web development, and AI** meet.
+I’m a **QA Engineer** focused on finding defects, validating user flows, writing clear test scenarios, and growing into stronger test automation.
 
-I like understanding how a product behaves, finding where it can fail, and then building tools that make the process smarter and simpler.
+I enjoy the full QA loop:
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🔎 FIND THE BUG                                           │
-│        ↓                                                    │
-│   🧪 REPRODUCE IT                                           │
-│        ↓                                                    │
-│   ⚙️ AUTOMATE IT                                            │
-│        ↓                                                    │
-│   🤖 IMPROVE THE WORKFLOW                                   │
-│        ↓                                                    │
-│   🚀 SHIP WITH CONFIDENCE                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+🧠 Understand the requirement
+        ↓
+🧪 Design the test scenarios
+        ↓
+🔍 Break the feature
+        ↓
+🐞 Report the defect clearly
+        ↓
+🔁 Verify the fix
+        ↓
+⚙️ Automate what should not stay manual
 ```
 
 ---
 
-## ⚙️ WHAT I WORK WITH
+## 🧰 QA TOOLKIT
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 <div align="center">
 
-**Manual Testing** · **UI Testing** · **Test Cases** · **Bug Reporting** · **Regression Testing** · **Agile** · **Selenium Automation** · **Web Testing**
+**Manual Testing** · **Functional Testing** · **UI Testing** · **Regression Testing** · **Test Case Design** · **Bug Reporting** · **Agile** · **Selenium Automation** · **Web Testing**
 
 </div>
 
 ---
 
-## 🔥 WHAT I'M BUILDING
+## 🎯 WHAT I'M FOCUSING ON
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🍌 Banana Freshness Check
+### 🧪 Manual QA
 
-AI-powered browser app that checks whether a banana is fresh, ripe, overripe, or should be discarded.
-
-**Stack:** TensorFlow.js • MobileNet • JavaScript
-
-[View Project →](https://github.com/AnudeepPaladugu/Banana_Freshness_Check)
+Requirement analysis, test scenarios, positive and negative testing, regression, defect reporting, and user-flow validation.
 
 </td>
 <td width="50%">
 
-### 🧪 QA & Automation
+### ⚙️ Automation
 
-Practical testing work covering test design, defect reporting, web testing, Selenium, and automation practice.
-
-**Focus:** Quality • Reliability • Repeatability
-
-[Explore Repositories →](https://github.com/AnudeepPaladugu?tab=repositories)
+Building practical Selenium skills with Java and learning how to turn repetitive browser checks into maintainable automation.
 
 </td>
 </tr>
@@ -95,94 +82,86 @@ Practical testing work covering test design, defect reporting, web testing, Sele
 
 ---
 
-## 🎯 CURRENT FOCUS
+## 🚀 RELEVANT WORK
+
+### 🍌 Banana Freshness Check
+
+A browser-based AI application with image upload, camera capture, banana verification, and freshness classification.
+
+**Why it matters to QA:** it gives me a real application to think about from both the **user-flow** and **validation** perspectives.
+
+**Tech:** TensorFlow.js • MobileNet • JavaScript
+
+[Open Project →](https://github.com/AnudeepPaladugu/Banana_Freshness_Check)
+
+### 🌐 Beginner HTML Webpage
+
+Frontend practice work that helped build familiarity with webpage structure, UI behavior, and browser-based testing.
+
+**Tech:** HTML • CSS
+
+[Open Project →](https://github.com/AnudeepPaladugu/Beginner-Html-webpage)
+
+---
+
+## 🧪 HOW I THINK ABOUT TESTING
+
+> **“A feature is not finished when it works. It is finished when you understand how it can fail.”**
+
+When I test a feature, I naturally start asking:
+
+- What happens with invalid input?
+- What happens at the edge cases?
+- What if the user does something unexpected?
+- Can the issue be reproduced consistently?
+- What other area could this change break?
+- Is this a good candidate for automation?
+
+---
+
+## 📌 CURRENT LEARNING PATH
 
 ```text
-QA Engineering        ████████████████████  Testing & Automation
-Java + Selenium       ██████████████████░░  Building practical skills
-AI + Web Projects     ███████████████░░░░░  Experimenting & shipping
-Technical Writing     ████████████░░░░░░░░  Learning in public
+Manual Testing          ████████████████████  Strong foundation
+Test Case Design        ███████████████████░  Daily practice
+Bug Reporting           ██████████████████░░  Practical focus
+Java                    ███████████████░░░░░  Improving
+Selenium                ██████████████░░░░░░  Building automation skills
+API / Advanced QA       ████████░░░░░░░░░░░░  Next on the path
 ```
 
 ---
 
-## 🧪 MY QA MINDSET
+## 💡 SELECTED PROJECTS
 
-> **“A feature is not finished when it works. It is finished when you understand how it can fail.”**
+| Project | Relevance |
+|---|---|
+| 🍌 [Banana Freshness Check](https://github.com/AnudeepPaladugu/Banana_Freshness_Check) | AI web app, user-flow and functional testing perspective |
+| 🌐 [Beginner HTML Webpage](https://github.com/AnudeepPaladugu/Beginner-Html-webpage) | Web UI and browser fundamentals |
+| 📂 [All Repositories](https://github.com/AnudeepPaladugu?tab=repositories) | Full project history |
 
-I care about more than finding defects. I look for:
-
-- 🔍 Edge cases
-- 🧩 Broken user flows
-- 🔁 Regression risks
-- 🧪 Reproducible test scenarios
-- ⚙️ Automation opportunities
-- 📈 Better test coverage
+I’m deliberately keeping this profile focused on **relevant QA and web work** instead of filling it with unrelated repositories just to make the profile look busy.
 
 ---
 
-## 🚀 SELECTED PROJECTS
-
-<div align="center">
-
-| Project | What it is | Tech |
-|---|---|---|
-| 🍌 [Banana Freshness Check](https://github.com/AnudeepPaladugu/Banana_Freshness_Check) | Browser-based banana freshness classifier | TensorFlow.js • JS |
-| 🌐 [Beginner HTML Webpage](https://github.com/AnudeepPaladugu/Beginner-Html-webpage) | Frontend practice project | HTML • CSS |
-| 🐻 [Doraemon using Python](https://github.com/AnudeepPaladugu/Doraemon-using-Python) | Python graphics experiment | Python |
-| 🎨 [Shinchan using Python](https://github.com/AnudeepPaladugu/Shinchan-using-python) | Python graphics experiment | Python |
-
-</div>
-
----
-
-## 📊 GITHUB PULSE
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnudeepPaladugu&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnudeepPaladugu&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnudeepPaladugu&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🐍 THE COMMIT TRAIL
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 💭 A LITTLE MORE ABOUT ME
+## 👨‍💻 A LITTLE MORE ABOUT ME
 
 ```yaml
 name: Anudeep Paladugu
 role: QA Engineer
-interests:
-  - Software Testing
-  - Test Automation
-  - AI Tools
-  - Web Development
-  - Building Useful Side Projects
-  - Technical Writing
-mindset: Learn → Build → Test → Improve
+focus:
+  - Manual Testing
+  - Functional Testing
+  - Regression Testing
+  - Test Case Design
+  - Bug Reporting
+  - Selenium Automation
+learning:
+  - Java
+  - Selenium
+  - Advanced QA Practices
+mindset: Learn → Test → Find → Fix → Automate
 ```
-
----
-
-## 📚 BEYOND CODE
-
-I also write.
-
-I enjoy turning ideas into articles and creative projects, not just code. That keeps my problem-solving side balanced with a more creative one.
 
 ---
 
@@ -190,14 +169,14 @@ I enjoy turning ideas into articles and creative projects, not just code. That k
 
 <div align="center">
 
-### Have a product to test, an automation problem, or a project worth building?
+### Looking for a QA Engineer who likes to understand how products fail?
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anudeeppaladugu/)
-[![GitHub](https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnudeepPaladugu?tab=repositories)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anudeeppaladugu/)
+[![View GitHub](https://img.shields.io/badge/View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnudeepPaladugu?tab=repositories)
 
 <br/><br/>
 
-**Thanks for stopping by. Stay curious. Break things responsibly. Build better things. 🚀**
+**Test carefully. Question everything. Automate intelligently. 🚀**
 
 </div>
 
@@ -205,6 +184,6 @@ I enjoy turning ideas into articles and creative projects, not just code. That k
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7C3AED,100:2563EB&height=120&section=footer" width="100%" />
 
 </div>
