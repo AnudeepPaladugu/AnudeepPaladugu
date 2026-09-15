@@ -115,7 +115,6 @@ A browser-based AI experiment featuring **image upload, camera capture, banana v
 
 ---
 
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/author-premium.svg" width="100%" alt="Author banner" />
 
 <div align="center">
 
