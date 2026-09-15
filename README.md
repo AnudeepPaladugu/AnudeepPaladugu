@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/Anudeep%20Paladugu.png" width="180" alt="Anudeep Paladugu" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,20:2563EB,45:7C3AED,70:EC4899,100:F97316&height=200&section=header&text=ANUDEEP%20PALADUGU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=QA%20ENGINEER%20%7C%20WRITER%20%7C%20CREATIVE%20BUILDER&descAlignY=57&descSize=16" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,20:2563EB,45:7C3AED,70:EC4899,100:F97316&height=220&section=header&text=ANUDEEP%20PALADUGU&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=QA%20ENGINEER%20%7C%20WRITER%20%7C%20CREATIVE%20BUILDER&descAlignY=57&descSize=17" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=700&color=EC4899&center=true&vCenter=true&width=900&lines=I+test+products+from+the+user's+side.;I+look+for+what+breaks+and+why.;I+turn+repetitive+checks+into+automation.;I+build+things+because+curiosity+wins.;I+write+stories+about+the+things+people+don't+always+say.;Welcome+to+my+little+corner+of+the+internet.%F0%9F%91%8B" alt="Animated typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2300&pause=800&color=EC4899&center=true&vCenter=true&width=700&lines=I+test+from+the+user's+side.;I+look+for+what+breaks.;I+automate+what+repeats.;I+build+because+curiosity+wins.;I+write+what+people+don't+always+say." alt="Animated typing intro" />
 
 <br/>
 
