@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,20:2563EB,45:7C3AED,70:EC4899,100:F97316&height=200&section=header&text=ANUDEEP%20PALADUGU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=QA%20ENGINEER%20%7C%20WRITER%20%7C%20CREATIVE%20BUILDER&descAlignY=57&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,35:3F0D0D,65:991B1B,100:DC2626&height=200&section=header&text=ANUDEEP%20PALADUGU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=QA%20ENGINEER%20%7C%20WRITER%20%7C%20CREATIVE%20BUILDER&descAlignY=57&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2300&pause=800&color=EC4899&center=true&vCenter=true&width=700&lines=I+test+from+the+user's+side.;I+look+for+what+breaks.;I+automate+what+repeats.;I+build+because+curiosity+wins.;I+write+what+people+don't+always+say." alt="Animated typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2300&pause=800&color=DC2626&center=true&vCenter=true&width=700&lines=I+test+from+the+user's+side.;I+look+for+what+breaks.;I+automate+what+repeats.;I+build+because+curiosity+wins.;I+write+what+people+don't+always+say." alt="Animated typing intro" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/AnudeepPaladugu"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/MINDSNOTEBOOK-EC4899?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/LINKEDIN-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/MINDSNOTEBOOK-7F1D1D?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
 </div>
 
@@ -40,21 +40,21 @@ I test software. I build small things. I experiment with code. I write stories. 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Manual%20Testing-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Functional%20Testing-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Regression-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Test%20Cases-059669?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bug%20Reporting-DC2626?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agile-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Manual%20Testing-991B1B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Functional%20Testing-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Regression-7F1D1D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Test%20Cases-B91C1C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bug%20Reporting-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agile-525252?style=for-the-badge" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-7F1D1D?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-991B1B?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3F0D0D?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-DC2626?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-991B1B?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-B91C1C?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
@@ -72,9 +72,9 @@ Requirement → Test Scenarios → Break It → Report It → Verify It → Auto
 
 ### BANANA FRESHNESS CHECK
 
-<img src="https://img.shields.io/badge/AI%20WEB%20APP-TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/MOBILE%20NET-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BROWSER%20CAMERA-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20WEB%20APP-TensorFlow.js-7F1D1D?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/MOBILE%20NET-991B1B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BROWSER%20CAMERA-111111?style=for-the-badge" />
 
 </div>
 
@@ -83,7 +83,7 @@ A browser-based application with **image upload, camera capture, banana verifica
 **QA angle:** UI flows, input validation, unexpected inputs, classification behavior, confidence output, and edge cases.
 
 <div align="center">
-<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/OPEN%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/OPEN%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
@@ -102,7 +102,7 @@ Sometimes I build software to solve a problem. Sometimes I build it simply becau
 
 **Python + Turtle Graphics + patience.**
 
-<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/VIEW%20PROJECT-991B1B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -113,7 +113,7 @@ Sometimes I build software to solve a problem. Sometimes I build it simply becau
 
 **Python + Turtle Graphics + creativity.**
 
-<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/VIEW%20PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/VIEW%20PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -143,8 +143,8 @@ Sometimes I build software to solve a problem. Sometimes I build it simply becau
 
 **250 pages · Paperback**
 
-<a href="https://www.amazon.in/dp/B0CLFMW5SG"><img src="https://img.shields.io/badge/AMAZON-FF9900?style=for-the-badge&logo=amazon&logoColor=white" /></a>
-<a href="https://store.pothi.com/book/anudeep-paladugu-her-name-every-silence/"><img src="https://img.shields.io/badge/POTHI-7C3AED?style=for-the-badge" /></a>
+<a href="https://www.amazon.in/dp/B0CLFMW5SG"><img src="https://img.shields.io/badge/AMAZON-7F1D1D?style=for-the-badge&logo=amazon&logoColor=white" /></a>
+<a href="https://store.pothi.com/book/anudeep-paladugu-her-name-every-silence/"><img src="https://img.shields.io/badge/POTHI-991B1B?style=for-the-badge" /></a>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -159,7 +159,7 @@ Emotionally driven fiction exploring memory, relationships, and what remains aft
 
 **Author: Anudeep Paladugu**
 
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOK-EC4899?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOK-DC2626?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -173,7 +173,7 @@ Emotionally driven fiction exploring memory, relationships, and what remains aft
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Words+about+love.;Words+about+loss.;Words+about+growth.;Words+about+the+things+people+don't+always+say." alt="MindsNotebook animated writing themes" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2800&pause=900&color=991B1B&center=true&vCenter=true&width=900&lines=Words+about+love.;Words+about+loss.;Words+about+growth.;Words+about+the+things+people+don't+always+say." alt="MindsNotebook animated writing themes" />
 
 <br/>
 
@@ -189,7 +189,7 @@ Emotionally driven fiction exploring memory, relationships, and what remains aft
 
 ### 💬 HONEST CONVERSATIONS
 
-<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://img.shields.io/badge/READ%20ARTICLE-7C3AED?style=for-the-badge" /></a>
+<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://img.shields.io/badge/READ%20ARTICLE-991B1B?style=for-the-badge" /></a>
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -198,7 +198,7 @@ Emotionally driven fiction exploring memory, relationships, and what remains aft
 
 ### 🖤 LOVE & LETTING GO
 
-<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://img.shields.io/badge/READ%20ARTICLE-EC4899?style=for-the-badge" /></a>
+<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://img.shields.io/badge/READ%20ARTICLE-DC2626?style=for-the-badge" /></a>
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -207,7 +207,7 @@ Emotionally driven fiction exploring memory, relationships, and what remains aft
 
 ### 🌱 GROWTH & CHANGE
 
-<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://img.shields.io/badge/READ%20ARTICLE-059669?style=for-the-badge" /></a>
+<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://img.shields.io/badge/READ%20ARTICLE-7F1D1D?style=for-the-badge" /></a>
 
 </td>
 </tr>
@@ -215,7 +215,7 @@ Emotionally driven fiction exploring memory, relationships, and what remains aft
 
 <br/>
 
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ENTER%20MINDSNOTEBOOK-111827?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ENTER%20MINDSNOTEBOOK-111111?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
 </div>
 
@@ -317,9 +317,9 @@ mindset: Learn → Build → Test → Improve → Create
 
 ### If you came here for QA, stay for the rabbit hole. 🐇
 
-<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/AnudeepPaladugu?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/READ%20MY%20WRITING-EC4899?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/READ%20MY%20WRITING-7F1D1D?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -327,4 +327,4 @@ mindset: Learn → Build → Test → Improve → Create
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:2563EB,55:7C3AED,80:EC4899,100:F97316&height=150&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,30:3F0D0D,65:991B1B,100:DC2626&height=150&section=footer&animation=fadeIn" width="100%" />
