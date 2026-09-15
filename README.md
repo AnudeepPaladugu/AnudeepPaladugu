@@ -172,43 +172,25 @@ Another piece of my fiction work, built around emotionally driven storytelling, 
 
 MindsNotebook is where the technical side of my profile disappears for a moment and the **writer** takes over.
 
-The site currently features original pieces such as **“What’s the point of being kind?”**, **“Timing Is Everything, but Only If You Are Truly There When the Moment Arrives”**, **“Missing Someone Who Left: A Letter to Lost Love”**, and **“Why Loneliness Hurts Even When You’re Not Alone.”** citeturn3search3
+The blog features original writing across **The Mind, The Heart, The Soul, and The Mirror** — including reflections on kindness, timing, loneliness, love, personal growth, and emotional recovery.
 
-It also features my relationship writing, including **“Why Do Honest Conversations Feel So Scary In Relationships?”**, which connects directly to the emotional themes of *Her Name in Every Silence*. citeturn3search0
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=900&lines=THE+MIND+%E2%80%A2+THE+HEART+%E2%80%A2+THE+SOUL+%E2%80%A2+THE+MIRROR;Writing+about+the+things+we+usually+leave+unsaid.;Stories%2C+relationships%2C+growth%2C+and+the+human+experience." alt="MindsNotebook animated themes" />
 
-### 🌌 A glimpse into MindsNotebook
+### 🌌 BLOG VISUALS — STABLE, NO "GENERATING PREVIEW"
 
 <div align="center">
 
-<a href="https://mindsnotebook.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmindsnotebook.com%2F?w=1200" width="92%" alt="MindsNotebook homepage preview" /></a>
+<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-honest-conversations.svg" width="92%" alt="Why Do Honest Conversations Feel So Scary In Relationships" /></a>
 
 <br/><br/>
 
-<table>
-<tr>
-<td width="33%" align="center">
+<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-love-letting-go.svg" width="92%" alt="The Moment You Realize They Never Truly Loved You" /></a>
 
-<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmindsnotebook.com%2Fwhy-do-honest-conversations-feel-so-scary-in-relationships%2F?w=700" width="100%" alt="MindsNotebook article preview" /></a>
+<br/><br/>
 
-**HONEST CONVERSATIONS**
+<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-growth.svg" width="92%" alt="Stuck in Life How to Escape Your Comfort Zone" /></a>
 
-</td>
-<td width="33%" align="center">
-
-<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmindsnotebook.com%2Fthe-moment-you-realize-they-never-truly-loved-you%2F?w=700" width="100%" alt="MindsNotebook article preview" /></a>
-
-**LOVE & LETTING GO**
-
-</td>
-<td width="33%" align="center">
-
-<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmindsnotebook.com%2Fstuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined%2F?w=700" width="100%" alt="MindsNotebook article preview" /></a>
-
-**GROWTH & CHANGE**
-
-</td>
-</tr>
-</table>
+<br/><br/>
 
 <a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ENTER%20MINDSNOTEBOOK-111827?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
