@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B14"/><stop offset="0.55" stop-color="#111827"/><stop offset="1" stop-color="#1E1B4B"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient><radialGradient id="glow"><stop stop-color="#818CF8" stop-opacity=".22"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></radialGradient></defs><rect width="1400" height="300" rx="30" fill="url(#bg)"/><circle cx="1180" cy="90" r="250" fill="url(#glow)"/><circle cx="1240" cy="210" r="150" fill="url(#glow)" opacity=".65"/><path d="M0 250 C230 185 360 280 560 220 S920 150 1400 215" fill="none" stroke="url(#line)" stroke-width="2" opacity=".45"/><path d="M0 265 C250 205 390 295 600 235 S980 175 1400 230" fill="none" stroke="#FFFFFF" stroke-width="1" opacity=".12"/><line x1="80" y1="70" x2="250" y2="70" stroke="url(#line)" stroke-width="3"/><text x="80" y="112" fill="#A5F3FC" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5">AUTHOR · STORYTELLER · CREATOR</text><text x="80" y="178" fill="#F8FAFC" font-family="Georgia,serif" font-size="48" font-weight="700">Stories worth remembering.</text><text x="80" y="220" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="19">Two novels · MindsNotebook · love · loss · memory · growth</text><text x="80" y="262" fill="#94A3B8" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">ANUDEEP PALADUGU</text><g transform="translate(1180 145)" fill="none" stroke="#C4B5FD" stroke-width="2" opacity=".55"><path d="M0 -62 C42 -84 78 -48 72 -5 C65 42 18 67 0 82 C-18 67 -65 42 -72 -5 C-78 -48 -42 -84 0 -62Z"/><path d="M-42 -20 C-20 -4 -12 16 0 39 C14 10 29 -8 48 -25"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B14"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#1E1B4B"/></linearGradient>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#818CF8" stop-opacity=".22"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1400" height="300" rx="30" fill="url(#bg)"/>
+<circle cx="1180" cy="90" r="250" fill="url(#glow)"/>
+<circle cx="1240" cy="210" r="150" fill="url(#glow)" opacity=".65"/>
+<path d="M0 250 C230 185 360 280 560 220 S920 150 1400 215" fill="none" stroke="url(#line)" stroke-width="2" opacity=".45"/>
+<path d="M0 265 C250 205 390 295 600 235 S980 175 1400 230" fill="none" stroke="#FFFFFF" stroke-width="1" opacity=".12"/>
+<line x1="80" y1="70" x2="250" y2="70" stroke="url(#line)" stroke-width="3"/>
+<text x="80" y="112" fill="#A5F3FC" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5">AUTHOR · STORYTELLER · CREATOR</text>
+<text x="80" y="178" fill="#F8FAFC" font-family="Georgia,serif" font-size="48" font-weight="700">Stories worth remembering.</text>
+<text x="80" y="220" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="19">Two novels · MindsNotebook · love · loss · memory &amp; growth</text>
+<text x="80" y="262" fill="#94A3B8" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">ANUDEEP PALADUGU</text>
+<g transform="translate(1180 145)" fill="none" stroke="#C4B5FD" stroke-width="2" opacity=".55"><path d="M0 -62 C42 -84 78 -48 72 -5 C65 42 18 67 0 82 C-18 67 -65 42 -72 -5 C-78 -48 -42 -84 0 -62Z"/><path d="M-42 -20 C-20 -4 -12 16 0 39 C14 10 29 -8 48 -25"/></g>
+</svg>
