@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-label="Anudeep Paladugu QA Engineer profile banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#090909"/>
+    <stop offset="0.58" stop-color="#16090A"/>
+    <stop offset="1" stop-color="#3A0A0C"/>
+  </linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7F1D1D"/>
+    <stop offset="0.5" stop-color="#DC2626"/>
+    <stop offset="1" stop-color="#EF4444"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="22"/></filter>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/>
+  </pattern>
+</defs>
+<rect width="1400" height="360" rx="28" fill="url(#bg)"/>
+<rect width="1400" height="360" rx="28" fill="url(#grid)"/>
+<circle cx="1240" cy="70" r="150" fill="#DC2626" opacity="0.16" filter="url(#glow)"/>
+<circle cx="1050" cy="330" r="130" fill="#991B1B" opacity="0.13" filter="url(#glow)"/>
+<path d="M0 310 C240 250 380 345 600 285 S990 235 1400 300" fill="none" stroke="#EF4444" stroke-opacity="0.18" stroke-width="2"/>
+<rect x="72" y="72" width="7" height="216" rx="3" fill="url(#red)"/>
+<text x="112" y="108" fill="#FCA5A5" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="5">QUALITY · CURIOSITY · CREATION</text>
+<text x="108" y="178" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="800" letter-spacing="1">ANUDEEP PALADUGU</text>
+<text x="112" y="219" fill="#E5E5E5" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="2">QA ENGINEER  /  TESTER  /  AUTHOR  /  BUILDER</text>
+<rect x="112" y="250" width="310" height="2" fill="#DC2626"/>
+<text x="112" y="282" fill="#A3A3A3" font-family="Arial,Helvetica,sans-serif" font-size="16">I test what users touch. I build what I imagine. I write what I feel.</text>
+<g transform="translate(1110 92)">
+  <circle cx="90" cy="90" r="72" fill="none" stroke="#DC2626" stroke-width="2" opacity="0.8"/>
+  <circle cx="90" cy="90" r="50" fill="none" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <path d="M90 35V145M35 90H145" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <circle cx="90" cy="90" r="11" fill="#EF4444"/>
+  <path d="M90 18L98 36L90 45L82 36Z" fill="#FFFFFF" opacity="0.9"/>
+  <text x="90" y="184" text-anchor="middle" fill="#A3A3A3" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">FIND · FIX · IMPROVE</text>
+</g>
+</svg>
