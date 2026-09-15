@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:2563EB,55:7C3AED,80:EC4899,100:F97316&height=220&section=header&text=ANUDEEP%20PALADUGU&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=QA%20ENGINEER%20%7C%20WRITER%20%7C%20CREATIVE%20BUILDER&descAlignY=57&descSize=17" width="100%" />
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/Anudeep%20Paladugu.png" width="180" alt="Anudeep Paladugu" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=800&color=EC4899&center=true&vCenter=true&width=900&lines=I+test+products+from+the+user's+side.;I+look+for+what+breaks+and+why.;I+turn+repetitive+checks+into+automation.;I+build+things+because+curiosity+wins.;I+write+stories+about+the+things+people+don't+always+say.;Welcome+to+my+little+corner+of+the+internet.%F0%9F%91%8B" alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,20:2563EB,45:7C3AED,70:EC4899,100:F97316&height=220&section=header&text=ANUDEEP%20PALADUGU&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=QA%20ENGINEER%20%7C%20WRITER%20%7C%20CREATIVE%20BUILDER&descAlignY=57&descSize=17" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=700&color=EC4899&center=true&vCenter=true&width=900&lines=I+test+products+from+the+user's+side.;I+look+for+what+breaks+and+why.;I+turn+repetitive+checks+into+automation.;I+build+things+because+curiosity+wins.;I+write+stories+about+the+things+people+don't+always+say.;Welcome+to+my+little+corner+of+the+internet.%F0%9F%91%8B" alt="Animated typing intro" />
 
 <br/>
 
@@ -17,8 +19,6 @@
 ## 🧪 QA ENGINEER · 📖 AUTHOR · 💻 BUILDER
 
 I'm **Anudeep Paladugu**, a QA Engineer focused on **manual testing, functional testing, regression testing, test case design, defect reporting, web testing, and Selenium automation**.
-
-But a GitHub profile should show more than a job title.
 
 I test software. I build small things. I experiment with code. I write stories. I publish books.
 
@@ -85,38 +85,41 @@ A browser-based application with **image upload, camera capture, banana verifica
 **QA angle:** UI flows, input validation, unexpected inputs, classification behavior, confidence output, and edge cases.
 
 <div align="center">
-
 <a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/OPEN%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 </div>
 
 ---
 
 # 🎨 THE CREATIVE LAB
 
-Sometimes I build software to solve a problem.
+Sometimes I build software to solve a problem. Sometimes I build it simply because I wonder **“Can I make this?”**
 
-Sometimes I build it simply because I wonder **“Can I make this?”**
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-### 🐱 Doraemon × Python
+### 🐱 DORAEMON × PYTHON
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Doraemon-using-Python/main/turtle-output.png" width="78%" alt="Doraemon created with Python Turtle" />
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Doraemon-using-Python/main/turtle-output.png" width="96%" alt="Doraemon created with Python Turtle" />
 
-**Python + Turtle Graphics + a lot of patience.**
+**Python + Turtle Graphics + patience.**
 
-<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/VIEW%20DORAEMON%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-### 🎨 Shinchan × Python
+</td>
+<td width="50%" align="center" valign="top">
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Shinchan-using-python/main/output%20image.png" width="78%" alt="Shinchan created with Python Turtle" />
+### 🎨 SHINCHAN × PYTHON
 
-**Python + Turtle Graphics + creative coding.**
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Shinchan-using-python/main/output%20image.png" width="96%" alt="Shinchan created with Python Turtle" />
 
-<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/VIEW%20SHINCHAN%20PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+**Python + Turtle Graphics + creativity.**
+
+<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/VIEW%20PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
 
 > These aren't QA projects. They're here because they show another side of me: **I learn by making things.**
 
@@ -124,19 +127,17 @@ Sometimes I build it simply because I wonder **“Can I make this?”**
 
 # 📖 THE AUTHOR SIDE
 
-Yes. **I write books too.**
-
-I've published two novels and continue to write original reflections on relationships, emotional recovery, personal growth, and the human experience through [MindsNotebook](https://mindsnotebook.com/). The site identifies me as the author of both **Her Name in Every Silence** and **No Record of Her**.
+## 📚 TWO NOVELS · TWO WORLDS
 
 <div align="center">
-
-## 📚 TWO NOVELS. TWO WORLDS.
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📘 HER NAME IN EVERY SILENCE
+<a href="https://www.amazon.in/dp/B0CLFMW5SG"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/Her%20Name%20in%20Every%20Silence%20Front%20cover.png" width="82%" alt="Her Name in Every Silence book cover" /></a>
+
+### HER NAME IN EVERY SILENCE
 
 **My debut novel**
 
@@ -150,15 +151,17 @@ I've published two novels and continue to write original reflections on relation
 </td>
 <td width="50%" align="center" valign="top">
 
-### 📕 NO RECORD OF HER
+<a href="https://mindsnotebook.com/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/no%20record%20of%20her%20cover.png" width="82%" alt="No Record of Her book cover" /></a>
+
+### NO RECORD OF HER
 
 **My second novel**
 
-Another piece of my fiction work, built around emotionally driven storytelling, memory, relationships, and what remains after people leave.
+Emotionally driven fiction exploring memory, relationships, and what remains after people leave.
 
 **Author: Anudeep Paladugu**
 
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOKS-EC4899?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOK-EC4899?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -170,27 +173,49 @@ Another piece of my fiction work, built around emotionally driven storytelling, 
 
 # ✍️ MINDSNOTEBOOK · MY WRITING WORLD
 
-MindsNotebook is where the technical side of my profile disappears for a moment and the **writer** takes over.
-
-The blog features original writing across **The Mind, The Heart, The Soul, and The Mirror** — including reflections on kindness, timing, loneliness, love, personal growth, and emotional recovery.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=900&lines=THE+MIND+%E2%80%A2+THE+HEART+%E2%80%A2+THE+SOUL+%E2%80%A2+THE+MIRROR;Writing+about+the+things+we+usually+leave+unsaid.;Stories%2C+relationships%2C+growth%2C+and+the+human+experience." alt="MindsNotebook animated themes" />
-
-### 🌌 BLOG VISUALS — STABLE, NO "GENERATING PREVIEW"
-
 <div align="center">
 
-<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-honest-conversations.svg" width="92%" alt="Why Do Honest Conversations Feel So Scary In Relationships" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Words+about+love.;Words+about+loss.;Words+about+growth.;Words+about+the+things+people+don't+always+say." alt="MindsNotebook animated writing themes" />
+
+<br/>
+
+<a href="https://mindsnotebook.com/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/logo.png" width="120" alt="MindsNotebook logo" /></a>
 
 <br/><br/>
 
-<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-love-letting-go.svg" width="92%" alt="The Moment You Realize They Never Truly Loved You" /></a>
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-<br/><br/>
+<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-honest-conversations.svg" width="100%" alt="Honest Conversations article artwork" /></a>
 
-<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-growth.svg" width="92%" alt="Stuck in Life How to Escape Your Comfort Zone" /></a>
+### 💬 HONEST CONVERSATIONS
 
-<br/><br/>
+<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://img.shields.io/badge/READ%20ARTICLE-7C3AED?style=for-the-badge" /></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-love-letting-go.svg" width="100%" alt="Love and letting go article artwork" /></a>
+
+### 🖤 LOVE & LETTING GO
+
+<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://img.shields.io/badge/READ%20ARTICLE-EC4899?style=for-the-badge" /></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-growth.svg" width="100%" alt="Growth and change article artwork" /></a>
+
+### 🌱 GROWTH & CHANGE
+
+<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://img.shields.io/badge/READ%20ARTICLE-059669?style=for-the-badge" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ENTER%20MINDSNOTEBOOK-111827?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
@@ -222,14 +247,12 @@ The blog features original writing across **The Mind, The Heart, The Soul, and T
 
 > **A feature is not finished when it works. It is finished when you understand how it can fail.**
 
-When I test something, I ask:
-
-- What happens with invalid input?
-- What happens at the boundaries?
-- What if the user does something unexpected?
-- Can the issue be reproduced consistently?
-- What else could this change break?
-- Which checks should eventually be automated?
+- Invalid input
+- Boundary conditions
+- Unexpected user behavior
+- Reproducibility
+- Regression impact
+- Automation opportunities
 
 ---
 
@@ -240,7 +263,7 @@ When I test something, I ask:
 | 🧪 Manual Testing | Requirements, scenarios, functional & regression testing |
 | 🐞 Defect Management | Clear reproduction steps, evidence and verification |
 | ☕ Java | Strengthening Java for automation |
-| 🧰 Selenium | Building practical browser automation skills |
+| 🧰 Selenium | Practical browser automation |
 | 🌐 Web Testing | UI behavior, forms, user flows and edge cases |
 | 🚀 Next | Stronger automation and API testing |
 
@@ -250,7 +273,7 @@ When I test something, I ask:
 
 | Work | What it shows |
 |---|---|
-| 🍌 [Banana Freshness Check](https://github.com/AnudeepPaladugu/Banana_Freshness_Check) | Real browser app + AI + QA perspective |
+| 🍌 [Banana Freshness Check](https://github.com/AnudeepPaladugu/Banana_Freshness_Check) | Browser app + AI + QA perspective |
 | 🌐 [Beginner HTML Webpage](https://github.com/AnudeepPaladugu/Beginner-Html-webpage) | Web and UI fundamentals |
 | 🐱 [Doraemon using Python](https://github.com/AnudeepPaladugu/Doraemon-using-Python) | Creative Python + Turtle |
 | 🎨 [Shinchan using Python](https://github.com/AnudeepPaladugu/Shinchan-using-python) | Creative Python + Turtle |
@@ -306,4 +329,4 @@ mindset: Learn → Build → Test → Improve → Create
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:2563EB,55:7C3AED,80:EC4899,100:F97316&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:2563EB,55:7C3AED,80:EC4899,100:F97316&height=150&section=footer&animation=fadeIn" width="100%" />
