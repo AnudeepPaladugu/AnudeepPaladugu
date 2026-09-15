@@ -1,175 +1,151 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/hero-banner.svg" width="100%" alt="Anudeep Paladugu — QA Engineer, Tester, Author, Builder" />
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/hero-premium.svg" width="100%" alt="Anudeep Paladugu premium profile banner" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/QA%20ENGINEER-111111?style=flat-square&logo=checkmarx&logoColor=EF4444" />
-<img src="https://img.shields.io/badge/MANUAL%20TESTING-7F1D1D?style=flat-square" />
-<img src="https://img.shields.io/badge/SELENIUM-991B1B?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVA-111111?style=flat-square&logo=openjdk&logoColor=EF4444" />
-<img src="https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python&logoColor=EF4444" />
+<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/AnudeepPaladugu"><img src="https://img.shields.io/badge/GITHUB-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/MINDSNOTEBOOK-6366F1?style=flat-square&logo=bookstack&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
-<a href="https://github.com/AnudeepPaladugu?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-991B1B?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/MINDSNOTEBOOK-111111?style=for-the-badge&logo=bookstack&logoColor=EF4444" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Quality+is+a+mindset.;I+test+from+the+user's+side.;I+automate+what+repeats.;I+build+because+curiosity+wins.;I+write+what+people+don't+always+say." alt="Animated introduction" />
 
 </div>
-
-<br/>
-
-> ### **I don't just test whether software works. I test how it fails.**
->
-> QA Engineer by profession. Builder by curiosity. Author by choice.
 
 ---
 
-## 🧪 01 — QUALITY ENGINEERING
+## 🧪 QA ENGINEER · 📖 AUTHOR · 💻 CREATIVE BUILDER
 
-I'm **Anudeep Paladugu**, a QA Engineer focused on creating reliable user experiences through thoughtful testing and practical automation.
+Hi, I'm **Anudeep Paladugu** — a QA Engineer who enjoys understanding how products work, how users interact with them, and where things can quietly go wrong.
+
+My professional world is **software testing**. Outside it, I build small experiments, write fiction, and run **MindsNotebook** — a personal writing space around love, loss, relationships, and growth.
+
+> **I don't just ask “Does it work?” — I ask “How could it fail?”**
 
 <div align="center">
 
-| 🧠 THINK | 🔍 TEST | 🐞 BREAK | 🔧 IMPROVE |
-|:---:|:---:|:---:|:---:|
-| Understand the requirement | Explore the flow | Find the edge case | Verify the fix |
+| 🧪 TEST | 💻 BUILD | 📖 WRITE |
+|:---:|:---:|:---:|
+| Find the cracks | Make ideas real | Tell the stories |
 
 </div>
 
-### Core QA toolkit
+---
+
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/qa-premium.svg" width="100%" alt="Quality engineering banner" />
+
+### What I work with
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Manual%20Testing-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Functional-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Regression-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Test%20Cases-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Defect%20Reporting-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agile-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Manual%20Testing-172554?style=flat-square" />
+<img src="https://img.shields.io/badge/Functional%20Testing-1E3A8A?style=flat-square" />
+<img src="https://img.shields.io/badge/Regression%20Testing-164E63?style=flat-square" />
+<img src="https://img.shields.io/badge/Test%20Cases-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Defect%20Reporting-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/Agile-475569?style=flat-square" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Selenium-7F1D1D?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-7F1D1D?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-7F1D1D?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-7F1D1D?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-7F1D1D?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-166534?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1E40AF?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-1D4ED8?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0369A1?style=flat-square&logo=css3&logoColor=white" />
 
 </div>
 
 ```text
-Requirement → Scenario → Test → Break → Report → Verify → Automate
+Requirement → Scenarios → Execute → Break → Report → Verify → Automate
 ```
 
 ---
 
-## 🍌 02 — PROJECT SPOTLIGHT
+## 🍌 PROJECT SPOTLIGHT · BANANA FRESHNESS CHECK
+
+A browser-based AI experiment featuring **image upload, camera capture, banana verification, freshness classification, and confidence results**.
+
+**Testing perspective:** UI flows · validation · unexpected inputs · edge cases · classification behavior · confidence output
 
 <div align="center">
-
-### BANANA FRESHNESS CHECK
-
-<img src="https://img.shields.io/badge/TENSORFLOW.JS-111111?style=flat-square&logo=tensorflow&logoColor=EF4444" />
-<img src="https://img.shields.io/badge/MOBILENET-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/BROWSER%20CAMERA-111111?style=flat-square" />
-
-</div>
-
-A browser-based AI application that handles **image upload, camera capture, banana verification, freshness classification, and confidence results**.
-
-**What interests me from a QA perspective:**
-
-- Input and UI validation
-- Camera and upload flows
-- Unexpected images and edge cases
-- Classification behaviour
-- Confidence/result presentation
-- Regression opportunities
-
-<div align="center">
-
-<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/EXPLORE%20THE%20PROJECT-991B1B?style=for-the-badge&logo=github&logoColor=white" /></a>
-
+<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
-## 🎨 03 — THE CREATIVE LAB
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/creative-premium.svg" width="100%" alt="Creative lab banner" />
 
-Not everything I build is about QA.
-
-Sometimes I code because an idea appears in my head and I want to know **whether I can make it real.**
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🐱 DORAEMON
+### 🐱 DORAEMON × PYTHON
 
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Doraemon-using-Python/main/turtle-output.png" width="94%" alt="Doraemon created with Python Turtle" />
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Doraemon-using-Python/main/turtle-output.png" width="96%" alt="Doraemon created with Python Turtle" />
 
-**Python · Turtle Graphics**
+**Python · Turtle · patience**
 
-<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/VIEW%20REPO-111111?style=for-the-badge&logo=github&logoColor=EF4444" /></a>
+<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/VIEW%20REPO-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🎨 SHINCHAN
+### 🎨 SHINCHAN × PYTHON
 
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Shinchan-using-python/main/output%20image.png" width="94%" alt="Shinchan created with Python Turtle" />
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Shinchan-using-python/main/output%20image.png" width="96%" alt="Shinchan created with Python Turtle" />
 
-**Python · Turtle Graphics**
+**Python · Turtle · creativity**
 
-<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/VIEW%20REPO-991B1B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/VIEW%20REPO-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-*Small projects. Big curiosity.*
-
 </div>
+
+> Not everything I build needs to be a career project. Sometimes **curiosity is the requirement.**
 
 ---
 
-## 📖 04 — THE AUTHOR SIDE
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/author-premium.svg" width="100%" alt="Author banner" />
 
 <div align="center">
-
-### TWO NOVELS · ONE AUTHOR
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-<a href="https://www.amazon.in/dp/B0CLFMW5SG"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/Her%20Name%20in%20Every%20Silence%20Front%20cover.png" width="78%" alt="Her Name in Every Silence" /></a>
+<a href="https://www.amazon.in/dp/B0CLFMW5SG"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/Her%20Name%20in%20Every%20Silence%20Front%20cover.png" width="78%" alt="Her Name in Every Silence book cover" /></a>
 
 ### HER NAME IN EVERY SILENCE
 
 **Debut novel**
 
-A coming-of-age story about **love, memory, loss and the things people leave unsaid.**
+A coming-of-age story about **love, memory, loss, and the things people leave unsaid.**
 
-<a href="https://www.amazon.in/dp/B0CLFMW5SG"><img src="https://img.shields.io/badge/AMAZON-111111?style=for-the-badge&logo=amazon&logoColor=EF4444" /></a>
-<a href="https://store.pothi.com/book/anudeep-paladugu-her-name-every-silence/"><img src="https://img.shields.io/badge/POTHI-7F1D1D?style=for-the-badge" /></a>
+<a href="https://www.amazon.in/dp/B0CLFMW5SG"><img src="https://img.shields.io/badge/AMAZON-18181B?style=flat-square&logo=amazon&logoColor=white" /></a>
+<a href="https://store.pothi.com/book/anudeep-paladugu-her-name-every-silence/"><img src="https://img.shields.io/badge/POTHI-4F46E5?style=flat-square" /></a>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<a href="https://mindsnotebook.com/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/no%20record%20of%20her%20cover.png" width="78%" alt="No Record of Her" /></a>
+<a href="https://mindsnotebook.com/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/no%20record%20of%20her%20cover.png" width="78%" alt="No Record of Her book cover" /></a>
 
 ### NO RECORD OF HER
 
 **Second novel**
 
-Emotion-driven fiction exploring **memory, relationships and what remains after people leave.**
+Emotionally driven fiction exploring **memory, relationships, and what remains after people leave.**
 
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOK-991B1B?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOK-6366F1?style=flat-square&logo=bookstack&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -179,122 +155,117 @@ Emotion-driven fiction exploring **memory, relationships and what remains after 
 
 ---
 
-## ✍️ 05 — MINDSNOTEBOOK
+## ✍️ MINDSNOTEBOOK
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3000&pause=1200&color=991B1B&center=true&vCenter=true&width=760&lines=Love.;Loss.;Growth.;The+things+people+don't+always+say." alt="MindsNotebook themes" />
+<a href="https://mindsnotebook.com/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/logo.png" width="110" alt="MindsNotebook logo" /></a>
 
-<br/>
+### A place for the thoughts that don't fit into a status update.
 
-<a href="https://mindsnotebook.com/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/logo.png" width="105" alt="MindsNotebook" /></a>
+Love · Loss · Relationships · Loneliness · Growth · Self-reflection
 
-<br/><br/>
+</div>
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-
-<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-honest-conversations.svg" width="100%" alt="Honest conversations" /></a>
+<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-honest-conversations.svg" width="100%" alt="Honest conversations article" /></a>
 
 **HONEST CONVERSATIONS**
 
-<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://img.shields.io/badge/READ-111111?style=flat-square" /></a>
-
+<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://img.shields.io/badge/READ-0E7490?style=flat-square" /></a>
 </td>
 <td width="33%" align="center" valign="top">
-
-<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-love-letting-go.svg" width="100%" alt="Love and letting go" /></a>
+<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-love-letting-go.svg" width="100%" alt="Love and letting go article" /></a>
 
 **LOVE & LETTING GO**
 
-<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://img.shields.io/badge/READ-991B1B?style=flat-square" /></a>
-
+<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://img.shields.io/badge/READ-4F46E5?style=flat-square" /></a>
 </td>
 <td width="33%" align="center" valign="top">
-
-<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-growth.svg" width="100%" alt="Growth and change" /></a>
+<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-growth.svg" width="100%" alt="Growth article" /></a>
 
 **GROWTH & CHANGE**
 
-<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://img.shields.io/badge/READ-111111?style=flat-square" /></a>
-
+<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://img.shields.io/badge/READ-047857?style=flat-square" /></a>
 </td>
 </tr>
 </table>
 
-<br/>
-
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ENTER%20MINDSNOTEBOOK-991B1B?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
-
+<div align="center">
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ENTER%20MINDSNOTEBOOK-18181B?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 </div>
 
 ---
 
-## 🧩 06 — MY STACK
+## 🧭 MY CURRENT DIRECTION
+
+| Focus | What I'm building toward |
+|---|---|
+| 🧪 QA Engineering | Stronger manual + automation testing |
+| 🧰 Selenium | Practical browser automation with Java |
+| 🌐 Web Testing | Reliable user flows, forms & edge cases |
+| 🐞 Defect Quality | Clear, reproducible bug reports |
+| 🚀 Next | Deeper automation & API testing |
+
+---
+
+## 🧩 THE WORK, WITHOUT THE NOISE
 
 <div align="center">
 
-| QA | AUTOMATION | WEB | TOOLS |
-|:---:|:---:|:---:|:---:|
-| Manual Testing | Selenium | HTML | Jira |
-| Functional Testing | Java | CSS | Agile |
-| Regression | Python | Web Testing | Defect Tracking |
-| Test Cases | Browser Automation | UI Validation | GitHub |
+<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/BANANA%20FRESHNESS%20CHECK-0F766E?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu/Beginner-Html-webpage"><img src="https://img.shields.io/badge/HTML%20WEBPAGE-334155?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/DORAEMON-2563EB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/SHINCHAN-6366F1?style=for-the-badge&logo=python&logoColor=white" /></a>
 
 </div>
 
+> No streaks. No fake statistics. No inflated numbers. **Just real work, real experiments, and real writing.**
+
 ---
 
-## 🧠 THE WAY I WORK
+## 👨‍💻 PROFILE SNAPSHOT
 
-```text
-                     ┌───────────────┐
-                     │   USER NEED   │
-                     └───────┬───────┘
-                             ↓
-                    ┌─────────────────┐
-                    │  UNDERSTAND IT  │
-                    └────────┬────────┘
-                             ↓
-             ┌─────────────────────────────┐
-             │       TEST THE OBVIOUS      │
-             │       TEST THE UNEXPECTED   │
-             └──────────────┬──────────────┘
-                            ↓
-                     🐞 FIND THE CRACK
-                            ↓
-                     🔧 IMPROVE THE FLOW
-                            ↓
-                     ✅ VERIFY THE FIX
+```yaml
+name: Anudeep Paladugu
+role: QA Engineer
+also:
+  - Published Author
+  - Writer
+  - Creative Builder
+core:
+  - Manual Testing
+  - Functional Testing
+  - Regression Testing
+  - Test Case Design
+  - Defect Reporting
+  - Web Testing
+  - Selenium Automation
+creative:
+  - Fiction Writing
+  - MindsNotebook
+  - Python Experiments
+  - AI & Web Projects
+books:
+  - Her Name in Every Silence
+  - No Record of Her
+mindset: Learn → Build → Test → Improve → Create
 ```
 
-> **Good QA isn't about finding more bugs. It's about understanding the product deeply enough to find the bugs that matter.**
-
----
-
-## 🌱 CURRENT FOCUS
-
-**QA → Automation → Better Web Testing → API Testing**
-
-I'm strengthening my automation skills while continuing to build strong fundamentals in manual and exploratory testing.
-
 ---
 
 <div align="center">
 
-## 👋 IF YOU'RE HERE, SAY HELLO
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/footer-premium.svg" width="100%" alt="Premium profile footer" />
 
-<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=EF4444" /></a>
-<a href="https://github.com/AnudeepPaladugu"><img src="https://img.shields.io/badge/EXPLORE%20GITHUB-991B1B?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/READ%20MY%20WRITING-111111?style=for-the-badge&logo=bookstack&logoColor=EF4444" /></a>
+<br/>
 
-<br/><br/>
-
-<sub>TEST WITH CURIOSITY · BUILD WITH INTENT · WRITE WITH HONESTY</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:3A0A0C,100:991B1B&height=120&section=footer" width="100%" />
+<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/AnudeepPaladugu?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20WORK-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/READ-4F46E5?style=flat-square&logo=bookstack&logoColor=white" /></a>
 
 </div>
