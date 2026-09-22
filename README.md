@@ -130,7 +130,7 @@ A browser-based AI experiment featuring **image upload, camera capture, banana v
 
 A coming-of-age story about **love, memory, loss, and the things people leave unsaid.**
 
-<a href="https://www.amazon.in/dp/B0CLFMW5SG"><img src="https://img.shields.io/badge/AMAZON-18181B?style=flat-square&logo=amazon&logoColor=white" /></a>
+<a href="https://www.amazon.in/Name-Every-Silence-Coming-Age-ebook/dp/B0FG87JPXD/ref=sr_1_1?crid=34KAWEFEEORT3&dib=eyJ2IjoiMSJ9.hG7sALaqm2EuJ4e8IhjTVQ.izSz7R1z9ALkgZ0JTOToZxjcOl_LgBT0eniRpE6utRU&dib_tag=se&keywords=her+name+in+every+silence&qid=1790073787&sprefix=her+name+in+every+silence%2Caps%2C309&sr=8-1"></a>
 <a href="https://store.pothi.com/book/anudeep-paladugu-her-name-every-silence/"><img src="https://img.shields.io/badge/POTHI-4F46E5?style=flat-square" /></a>
 
 </td>
@@ -144,7 +144,7 @@ A coming-of-age story about **love, memory, loss, and the things people leave un
 
 Emotionally driven fiction exploring **memory, relationships, and what remains after people leave.**
 
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOK-6366F1?style=flat-square&logo=bookstack&logoColor=white" /></a>
+<a href="https://www.amazon.in/NO-RECORD-HER-Psychological-Thriller-ebook/dp/B0FH5BR82W?ref_=ast_author_mpb"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOK-6366F1?style=flat-square&logo=bookstack&logoColor=white" /></a>
 
 </td>
 </tr>
