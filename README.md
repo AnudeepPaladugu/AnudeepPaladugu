@@ -218,6 +218,10 @@ Love · Loss · Relationships · Loneliness · Growth · Self-reflection
 | 🌐 Web Testing | Reliable user flows, forms & edge cases |
 | 🐞 Defect Quality | Clear, reproducible bug reports |
 | 🚀 Next | Deeper automation & API testing |
+<div align="center">
+<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/DORAEMON-2563EB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/SHINCHAN-6366F1?style=for-the-badge&logo=python&logoColor=white" /></a>
+</div>
 
 ---
 
