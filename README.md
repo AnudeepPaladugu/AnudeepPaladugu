@@ -226,6 +226,12 @@ Love · Loss · Relationships · Loneliness · Growth · Self-reflection
 
 A browser-based AI experiment featuring **image upload, camera capture, banana verification, freshness classification, and confidence results**.
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Banana_Freshness_Check/main/interface.png" width="90%" alt="Banana Freshness Check interface" />
+
+</div>
+
 **Testing perspective:** UI flows · validation · unexpected inputs · edge cases · classification behavior · confidence output
 
 <div align="center">
