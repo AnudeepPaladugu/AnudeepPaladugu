@@ -154,6 +154,17 @@ Emotionally driven fiction exploring **memory, relationships, and what remains a
 
 ---
 
+## 🧪 QA AUTOMATION FRAMEWORK
+
+Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and Allure, with Page Object Model, reusable configuration, regression coverage, failure screenshots, and GitHub Actions CI.
+
+<div align="center">
+<a href="https://github.com/AnudeepPaladugu/qa-automation-framework"><img src="https://img.shields.io/badge/VIEW%20AUTOMATION%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+
+---
+
 ## ✍️ MINDSNOTEBOOK
 
 <div align="center">
