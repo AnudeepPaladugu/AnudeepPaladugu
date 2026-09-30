@@ -120,6 +120,24 @@ Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and A
 
 ---
 
+## 🍌 PROJECT SPOTLIGHT · BANANA FRESHNESS CHECK
+
+A browser-based AI experiment featuring **image upload, camera capture, banana verification, freshness classification, and confidence results**.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Banana_Freshness_Check/main/interface.png" width="90%" alt="Banana Freshness Check interface" />
+
+</div>
+
+**Testing perspective:** UI flows · validation · unexpected inputs · edge cases · classification behavior · confidence output
+
+<div align="center">
+<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+
+
 
 <div align="center">
 
@@ -221,24 +239,6 @@ Love · Loss · Relationships · Loneliness · Growth · Self-reflection
 </div>
 
 ---
-
-## 🍌 PROJECT SPOTLIGHT · BANANA FRESHNESS CHECK
-
-A browser-based AI experiment featuring **image upload, camera capture, banana verification, freshness classification, and confidence results**.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Banana_Freshness_Check/main/interface.png" width="90%" alt="Banana Freshness Check interface" />
-
-</div>
-
-**Testing perspective:** UI flows · validation · unexpected inputs · edge cases · classification behavior · confidence output
-
-<div align="center">
-<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-
 ---
 
 ## 🧩 THE WORK, WITHOUT THE NOISE
