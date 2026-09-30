@@ -66,9 +66,6 @@ Requirement → Scenarios → Execute → Break → Report → Verify → Automa
 
 ---
 
-
----
-
 <img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/creative-premium.svg" width="100%" alt="Creative lab banner" />
 
 <div align="center">
@@ -136,9 +133,6 @@ A browser-based AI experiment featuring **image upload, camera capture, banana v
 <a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-
-
-
 <div align="center">
 
 <table>
@@ -174,9 +168,6 @@ Emotionally driven fiction exploring **memory, relationships, and what remains a
 </table>
 
 </div>
-
----
-
 
 ---
 
@@ -233,9 +224,9 @@ Love · Loss · Relationships · Loneliness · Growth · Self-reflection
 | 🌐 Web Testing | Reliable user flows, forms & edge cases |
 | 🐞 Defect Quality | Clear, reproducible bug reports |
 | 🚀 Next | Deeper automation & API testing |
+</table>
+
 <div align="center">
-<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/DORAEMON-2563EB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/SHINCHAN-6366F1?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
 
 ---
