@@ -1,3 +1,23 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/hero-premium.svg" width="100%" alt="Anudeep Paladugu premium profile banner" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/AnudeepPaladugu"><img src="https://img.shields.io/badge/GITHUB-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/MINDSNOTEBOOK-6366F1?style=flat-square&logo=bookstack&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Quality+is+a+mindset.;I+test+from+the+user's+side.;I+automate+what+repeats.;I+build+because+curiosity+wins.;I+write+what+people+don't+always+say." alt="Animated introduction" />
+
+</div>
+
+---
+
 ## 🧪 QA ENGINEER · 📖 AUTHOR · 💻 CREATIVE BUILDER
 
 Hi, I'm **Anudeep Paladugu** — a QA Engineer who enjoys understanding how products work, how users interact with them, and where things can quietly go wrong.
@@ -93,50 +113,10 @@ Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and A
 
 </div>
 
-> Not everything I build needs to be a career project. Sometimes **curiosity is the requirement.**
+> Not everything I build needs to be a career project.
+
 
 ---
-
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<a href="https://www.amazon.in/dp/B0CLFMW5SG"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/Her%20Name%20in%20Every%20Silence%20Front%20cover.png" width="78%" alt="Her Name in Every Silence book cover" /></a>
-
-### HER NAME IN EVERY SILENCE
-
-**Debut novel**
-
-A coming-of-age story about **love, memory, loss, and the things people leave unsaid.**
-
-<a href="https://www.amazon.in/Name-Every-Silence-Coming-Age-ebook/dp/B0FG87JPXD/ref=sr_1_1?crid=34KAWEFEEORT3&dib=eyJ2IjoiMSJ9.hG7sALaqm2EuJ4e8IhjTVQ.izSz7R1z9ALkgZ0JTOToZxjcOl_LgBT0eniRpE6utRU&dib_tag=se&keywords=her+name+in+every+silence&qid=1790073787&sprefix=her+name+in+every+silence%2Caps%2C309&sr=8-1"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOK-6366F1?style=flat-square&logo=bookstack&logoColor=white" /></a>
-<a href="https://store.pothi.com/book/anudeep-paladugu-her-name-every-silence/"><img src="https://img.shields.io/badge/POTHI-4F46E5?style=flat-square" /></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<a href="https://mindsnotebook.com/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/no%20record%20of%20her%20cover.png" width="78%" alt="No Record of Her book cover" /></a>
-
-### NO RECORD OF HER
-
-**Second novel**
-
-Emotionally driven fiction exploring **memory, relationships, and what remains after people leave.**
-
-<a href="https://www.amazon.in/NO-RECORD-HER-Psychological-Thriller-ebook/dp/B0FH5BR82W?ref_=ast_author_mpb"><img src="https://img.shields.io/badge/ABOUT%20THE%20BOOK-6366F1?style=flat-square&logo=bookstack&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-
 
 ## 🍌 PROJECT SPOTLIGHT · BANANA FRESHNESS CHECK
 
@@ -151,12 +131,8 @@ A browser-based AI experiment featuring **image upload, camera capture, banana v
 **Testing perspective:** UI flows · validation · unexpected inputs · edge cases · classification behavior · confidence output
 
 <div align="center">
-
-<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/🍌%20EXPLORE%20BANANA%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-
+<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
-<br/>
 
 ---
 
@@ -189,42 +165,6 @@ A hands-on HTML/CSS webpage project focused on building a complete browser inter
 | 🚀 Next | Deeper automation & API testing |
 
 ---
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🐱 DORAEMON × PYTHON
-
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Doraemon-using-Python/main/turtle-output.png" width="96%" alt="Doraemon created with Python Turtle" />
-
-**Python · Turtle · patience**
-
-<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/VIEW%20REPO-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🎨 SHINCHAN × PYTHON
-
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Shinchan-using-python/main/output%20image.png" width="96%" alt="Shinchan created with Python Turtle" />
-
-**Python · Turtle · creativity**
-
-<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/VIEW%20REPO-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> Not everything I build needs to be a career project. Sometimes **curiosity is the requirement.**
-
----
-
 
 <div align="center">
 
