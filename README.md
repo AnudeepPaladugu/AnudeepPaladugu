@@ -73,23 +73,23 @@ Requirement → Scenarios → Execute → Break → Report → Verify → Automa
 
 <div align="center">
 
+## 🧪 QA AUTOMATION FRAMEWORK
+
+Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and Allure, with Page Object Model, reusable configuration, regression coverage, failure screenshots, and GitHub Actions CI.
+
+<a href="https://github.com/AnudeepPaladugu/qa-automation-framework"><img src="https://img.shields.io/badge/VIEW%20AUTOMATION%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🧪 QA AUTOMATION FRAMEWORK
-
-Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and Allure, with Page Object Model, reusable configuration, regression coverage, failure screenshots, and GitHub Actions CI.
-
-<div align="center">
-<a href="https://github.com/AnudeepPaladugu/qa-automation-framework"><img src="https://img.shields.io/badge/VIEW%20AUTOMATION%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-
-
----
-
-## 🐱 DORAEMON × PYTHON
+### 🐱 DORAEMON × PYTHON
 
 <img src="https://raw.githubusercontent.com/AnudeepPaladugu/Doraemon-using-Python/main/turtle-output.png" width="96%" alt="Doraemon created with Python Turtle" />
 
@@ -113,6 +113,8 @@ Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and A
 </table>
 
 </div>
+
+---
 
 > Not everything I build needs to be a career project. Sometimes **curiosity is the requirement.**
 
