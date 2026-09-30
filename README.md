@@ -78,6 +78,7 @@ Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and A
 
 </div>
 
+
 ---
 
 <div align="center">
@@ -113,7 +114,7 @@ Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and A
 
 ---
 
-> Not everything I build needs to be a career project. Sometimes **curiosity is the requirement.**
+
 
 ---
 
@@ -173,6 +174,7 @@ Emotionally driven fiction exploring **memory, relationships, and what remains a
 
 </div>
 
+
 ---
 
 ## 💻 HTML WEBPAGE
@@ -196,124 +198,18 @@ A hands-on HTML/CSS webpage project focused on building a complete browser inter
 
 </div>
 
----
-
-## ✍️ MINDSNOTEBOOK
-
-<div align="center">
-
-<a href="https://mindsnotebook.com/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/logo.png" width="110" alt="MindsNotebook logo" /></a>
-
-### A place for the thoughts that don't fit into a status update.
-
-Love · Loss · Relationships · Loneliness · Growth · Self-reflection
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-honest-conversations.svg" width="100%" alt="Honest conversations article" /></a>
-
-**HONEST CONVERSATIONS**
-
-<a href="https://mindsnotebook.com/why-do-honest-conversations-feel-so-scary-in-relationships/"><img src="https://img.shields.io/badge/READ-0E7490?style=flat-square" /></a>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-love-letting-go.svg" width="100%" alt="Love and letting go article" /></a>
-
-**LOVE & LETTING GO**
-
-<a href="https://mindsnotebook.com/the-moment-you-realize-they-never-truly-loved-you/"><img src="https://img.shields.io/badge/READ-4F46E5?style=flat-square" /></a>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/mindsnotebook-growth.svg" width="100%" alt="Growth article" /></a>
-
-**GROWTH & CHANGE**
-
-<a href="https://mindsnotebook.com/stuck-in-life-how-to-escape-your-comfort-zone-and-achieve-more-than-you-ever-imagined/"><img src="https://img.shields.io/badge/READ-047857?style=flat-square" /></a>
-</td>
-</tr>
-</table>
-
-<div align="center">
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/ENTER%20MINDSNOTEBOOK-18181B?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
-</div>
 
 ---
 
-## 🧭 MY CURRENT DIRECTION
-
-| Focus | What I'm building toward |
-|---|---|
-| 🧪 QA Engineering | Stronger manual + automation testing |
-| 🧰 Selenium | Practical browser automation with Java |
-| 🌐 Web Testing | Reliable user flows, forms & edge cases |
-| 🐞 Defect Quality | Clear, reproducible bug reports |
-| 🚀 Next | Deeper automation & API testing |
-</table>
-
-<div align="center">
-</div>
-
----
 ---
 
-## 🧩 THE WORK, WITHOUT THE NOISE
-
-<div align="center">
-
-<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/BANANA%20FRESHNESS%20CHECK-0F766E?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/AnudeepPaladugu/Beginner-Html-webpage"><img src="https://img.shields.io/badge/HTML%20WEBPAGE-334155?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/DORAEMON-2563EB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/SHINCHAN-6366F1?style=for-the-badge&logo=python&logoColor=white" /></a>
-
-</div>
-
-> No streaks. No fake statistics. No inflated numbers. **Just real work, real experiments, and real writing.**
+> Not everything I build needs to be a career project. Sometimes **curiosity is the requirement.**
 
 ---
 
-## 👨‍💻 PROFILE SNAPSHOT
-
-```yaml
-name: Anudeep Paladugu
-role: QA Engineer
-also:
-  - Published Author
-  - Writer
-  - Creative Builder
-core:
-  - Manual Testing
-  - Functional Testing
-  - Regression Testing
-  - Test Case Design
-  - Defect Reporting
-  - Web Testing
-  - Selenium Automation
-creative:
-  - Fiction Writing
-  - MindsNotebook
-  - Python Experiments
-  - AI & Web Projects
-books:
-  - Her Name in Every Silence
-  - No Record of Her
-mindset: Learn → Build → Test → Improve → Create
-```
 
 ---
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/AnudeepPaladugu/main/assets/footer-premium.svg" width="100%" alt="Premium profile footer" />
+---
 
-<br/>
-
-<a href="https://www.linkedin.com/in/anudeeppaladugu/"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/AnudeepPaladugu?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20WORK-18181B?style=flat-square&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="https://mindsnotebook.com/"><img src="https://img.shields.io/badge/READ-4F46E5?style=flat-square&logo=bookstack&logoColor=white" /></a>
-
-</div>
