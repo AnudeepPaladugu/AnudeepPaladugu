@@ -175,6 +175,29 @@ Emotionally driven fiction exploring **memory, relationships, and what remains a
 
 ---
 
+## 💻 HTML WEBPAGE
+
+A hands-on HTML/CSS webpage project focused on building a complete browser interface from scratch.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-1.jpg" width="48%" alt="HTML webpage preview 1" />
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-2.jpg" width="48%" alt="HTML webpage preview 2" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-3.jpg" width="31%" alt="HTML webpage preview 3" />
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-4.jpg" width="31%" alt="HTML webpage preview 4" />
+<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-5.jpg" width="31%" alt="HTML webpage preview 5" />
+
+<br/><br/>
+
+<a href="https://github.com/AnudeepPaladugu/Beginner-Html-webpage"><img src="https://img.shields.io/badge/<>%20VIEW%20HTML%20PROJECT-334155?style=for-the-badge&logo=html5&logoColor=white" /></a>
+
+</div>
+
+---
+
 ## ✍️ MINDSNOTEBOOK
 
 <div align="center">
@@ -234,29 +257,6 @@ Love · Loss · Relationships · Loneliness · Growth · Self-reflection
 </div>
 
 ---
----
-
-## 💻 HTML WEBPAGE
-
-A hands-on HTML/CSS webpage project focused on building a complete browser interface from scratch.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-1.jpg" width="48%" alt="HTML webpage preview 1" />
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-2.jpg" width="48%" alt="HTML webpage preview 2" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-3.jpg" width="31%" alt="HTML webpage preview 3" />
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-4.jpg" width="31%" alt="HTML webpage preview 4" />
-<img src="https://raw.githubusercontent.com/AnudeepPaladugu/Beginner-Html-webpage/main/preview-5.jpg" width="31%" alt="HTML webpage preview 5" />
-
-<br/><br/>
-
-<a href="https://github.com/AnudeepPaladugu/Beginner-Html-webpage"><img src="https://img.shields.io/badge/<>%20VIEW%20HTML%20PROJECT-334155?style=for-the-badge&logo=html5&logoColor=white" /></a>
-
-</div>
-
 ---
 
 ## 🧩 THE WORK, WITHOUT THE NOISE
