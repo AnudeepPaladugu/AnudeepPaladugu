@@ -66,15 +66,6 @@ Requirement → Scenarios → Execute → Break → Report → Verify → Automa
 
 ---
 
-## 🍌 PROJECT SPOTLIGHT · BANANA FRESHNESS CHECK
-
-A browser-based AI experiment featuring **image upload, camera capture, banana verification, freshness classification, and confidence results**.
-
-**Testing perspective:** UI flows · validation · unexpected inputs · edge cases · classification behavior · confidence output
-
-<div align="center">
-<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
 
 ---
 
@@ -86,7 +77,19 @@ A browser-based AI experiment featuring **image upload, camera capture, banana v
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🐱 DORAEMON × PYTHON
+### 🧪 QA AUTOMATION FRAMEWORK
+
+Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and Allure, with Page Object Model, reusable configuration, regression coverage, failure screenshots, and GitHub Actions CI.
+
+<div align="center">
+<a href="https://github.com/AnudeepPaladugu/qa-automation-framework"><img src="https://img.shields.io/badge/VIEW%20AUTOMATION%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+
+
+---
+
+## 🐱 DORAEMON × PYTHON
 
 <img src="https://raw.githubusercontent.com/AnudeepPaladugu/Doraemon-using-Python/main/turtle-output.png" width="96%" alt="Doraemon created with Python Turtle" />
 
@@ -154,14 +157,6 @@ Emotionally driven fiction exploring **memory, relationships, and what remains a
 
 ---
 
-## 🧪 QA AUTOMATION FRAMEWORK
-
-Selenium WebDriver UI automation framework built with Java, TestNG, Maven, and Allure, with Page Object Model, reusable configuration, regression coverage, failure screenshots, and GitHub Actions CI.
-
-<div align="center">
-<a href="https://github.com/AnudeepPaladugu/qa-automation-framework"><img src="https://img.shields.io/badge/VIEW%20AUTOMATION%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
 
 ---
 
@@ -222,6 +217,19 @@ Love · Loss · Relationships · Loneliness · Growth · Self-reflection
 <a href="https://github.com/AnudeepPaladugu/Doraemon-using-Python"><img src="https://img.shields.io/badge/DORAEMON-2563EB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="https://github.com/AnudeepPaladugu/Shinchan-using-python"><img src="https://img.shields.io/badge/SHINCHAN-6366F1?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
+
+---
+
+## 🍌 PROJECT SPOTLIGHT · BANANA FRESHNESS CHECK
+
+A browser-based AI experiment featuring **image upload, camera capture, banana verification, freshness classification, and confidence results**.
+
+**Testing perspective:** UI flows · validation · unexpected inputs · edge cases · classification behavior · confidence output
+
+<div align="center">
+<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
 
 ---
 
