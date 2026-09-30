@@ -130,8 +130,12 @@ A browser-based AI experiment featuring **image upload, camera capture, banana v
 **Testing perspective:** UI flows · validation · unexpected inputs · edge cases · classification behavior · confidence output
 
 <div align="center">
-<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://github.com/AnudeepPaladugu/Banana_Freshness_Check"><img src="https://img.shields.io/badge/🍌%20EXPLORE%20BANANA%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </div>
+
+<br/>
 
 <div align="center">
 
